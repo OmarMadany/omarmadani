@@ -18,10 +18,10 @@ In addition to app development, I studied Artificial Intelligence at university,
 
 <table align="left">
   <tr>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" height="45"/><br/>Flutter</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/><br/>React Native</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="45" height="45"/><br/>Kotlin</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="45" height="45"/><br/>Swift</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="45" alt="Flutter"/><br/>Flutter</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="45" alt="React Native"/><br/>React Native</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="45" alt="Kotlin"/><br/>Kotlin</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="45" alt="Swift"/><br/>Swift</td>
   </tr>
 </table>
 <br clear="all"/>
@@ -30,11 +30,11 @@ In addition to app development, I studied Artificial Intelligence at university,
 
 <table align="left">
   <tr>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/><br/>Python</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br/>C++</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/><br/>C#</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45" height="45"/><br/>R</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45"/><br/>PHP</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" alt="Python"/><br/>Python</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++"/><br/>C++</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="45" alt="C#"/><br/>C#</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="45" alt="R"/><br/>R</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="45" alt="PHP"/><br/>PHP</td>
   </tr>
 </table>
 <br clear="all"/>
@@ -43,11 +43,11 @@ In addition to app development, I studied Artificial Intelligence at university,
 
 <table align="left">
   <tr>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/><br/>TensorFlow</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45"/><br/>PyTorch</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/><br/>Pandas</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/><br/>NumPy</td>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/openai/74AA9C" width="45" height="45"/><br/>OpenAI API</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow"/><br/>TensorFlow</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="45" alt="PyTorch"/><br/>PyTorch</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/><br/>Pandas</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/><br/>NumPy</td>
+    <td align="center" valign="top" width="100"><img src="https://cdn.simpleicons.org/openai/74AA9C" height="45" alt="OpenAI API"/><br/>OpenAI API</td>
   </tr>
 </table>
 <br clear="all"/>
@@ -56,9 +56,9 @@ In addition to app development, I studied Artificial Intelligence at university,
 
 <table align="left">
   <tr>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="45" height="45"/><br/>Firebase</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="45" height="45"/><br/>Supabase</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/><br/>MySQL</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" height="45" alt="Firebase"/><br/>Firebase</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" height="45" alt="Supabase"/><br/>Supabase</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/><br/>MySQL</td>
   </tr>
 </table>
 <br clear="all"/>
@@ -67,12 +67,12 @@ In addition to app development, I studied Artificial Intelligence at university,
 
 <table align="left">
   <tr>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/><br/>Git</td>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/github/white" width="45" height="45"/><br/>GitHub</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/><br/>Docker</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/><br/>VS Code</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="45" height="45"/><br/>Visual Studio</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="45" height="45"/><br/>Unity</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" alt="Git"/><br/>Git</td>
+    <td align="center" valign="top" width="100"><img src="https://cdn.simpleicons.org/github/8B949E" height="45" alt="GitHub"/><br/>GitHub</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="45" alt="Docker"/><br/>Docker</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/><br/>VS Code</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="45" alt="Visual Studio"/><br/>Visual Studio</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="45" alt="Unity"/><br/>Unity</td>
   </tr>
 </table>
 <br clear="all"/>
@@ -81,10 +81,10 @@ In addition to app development, I studied Artificial Intelligence at university,
 
 <table align="left">
   <tr>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45"/><br/>Figma</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="45" height="45"/><br/>Canva</td>
-    <td align="center" width="100"><img src="https://img.icons8.com/color/96/microsoft-word-2019--v2.png" width="45" height="45"/><br/>Word</td>
-    <td align="center" width="100"><img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019--v2.png" width="45" height="45"/><br/>PowerPoint</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="45" alt="Figma"/><br/>Figma</td>
+    <td align="center" valign="top" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" height="45" alt="Canva"/><br/>Canva</td>
+    <td align="center" valign="top" width="100"><img src="https://img.icons8.com/color/96/microsoft-word-2019--v2.png" height="45" alt="Word"/><br/>Word</td>
+    <td align="center" valign="top" width="100"><img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019--v2.png" height="45" alt="PowerPoint"/><br/>PowerPoint</td>
   </tr>
 </table>
 <br clear="all"/>
@@ -97,8 +97,8 @@ In addition to app development, I studied Artificial Intelligence at university,
 
 <table align="left">
   <tr>
-    <td align="center" width="140"><a href="mailto:omar.madanni@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45"/></a><br/>omar.madanni@gmail.com</td>
-    <td align="center" width="140"><a href="https://wa.me/201021374317"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" height="45"/></a><br/>WhatsApp</td>
+    <td align="center" valign="top" width="140"><a href="mailto:omar.madanni@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" alt="Gmail"/></a><br/>omar.madanni@gmail.com</td>
+    <td align="center" valign="top" width="140"><a href="https://wa.me/201021374317"><img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45" alt="WhatsApp"/></a><br/>WhatsApp</td>
   </tr>
 </table>
 <br clear="all"/>
